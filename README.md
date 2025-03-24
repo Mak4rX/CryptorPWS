@@ -6,6 +6,8 @@ A utility for generating PowerShell scripts that download and execute EXE files,
 
 CryptorPWS is a GUI application that generates PowerShell scripts for automatically downloading and running EXE files. The scripts can be encoded in base64 for additional obfuscation. This tool is designed to demonstrate how malicious software can use encryption and obfuscation techniques to evade detection.
 
+![image](https://github.com/user-attachments/assets/cf7dd356-cb1d-422d-b848-489aab0619b8)
+
 ## Features
 
 - Creation of PowerShell scripts for downloading EXE files from URLs
